@@ -1,7 +1,0 @@
-rootProject.name = 'coffe_msa_project'
-
-include 'gateway-service'
-include 'eureka-server'
-include 'stock-service'
-include 'order-service'
-include 'board-service'
